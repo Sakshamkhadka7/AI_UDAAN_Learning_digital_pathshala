@@ -9,7 +9,7 @@
 # print(len(countries))
 # print(countries)
 
-countries={"japan","usa","nepal"}
+countries={"japan","usa","nepal"} 
 print(countries)
 
 
